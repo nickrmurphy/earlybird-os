@@ -11,14 +11,15 @@
   },
   "dependencies": {
     "@tanstack/react-router": "^1.48.1",
-    "@tauri-apps/api": "^1",
+    "@tauri-apps/api": ">=2.0.0-rc.0",
+    "@tauri-apps/plugin-shell": ">=2.0.0-rc.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@tanstack/router-devtools": "^1.48.1",
     "@tanstack/router-plugin": "^1.47.0",
-    "@tauri-apps/cli": "^1",
+    "@tauri-apps/cli": ">=2.0.0-rc.0",
     "@types/react": "^18.2.15",
     "@types/react-dom": "^18.2.7",
     "@vitejs/plugin-react": "^4.2.1",
