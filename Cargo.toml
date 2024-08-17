@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["earlybird-journal/src-tauri", "earlybird-data"]
